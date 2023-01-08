@@ -1,6 +1,6 @@
 <div align="center"><h3>👋Hi there I'm fullstack developer thats eager to learn new things!</h3></div>
 
-<div align="center"><h1>Languajes and tools I know and am proficient in</h1></div>
+<div align="center"><h1>Languages and tools I know and am proficient in</h1></div>
 <p align="center">
   <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img width="5%" align="center" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7RVaKE0ubjH_Ioi90MHiDzKw-GpNI1BsHw&usqp=CAU">
